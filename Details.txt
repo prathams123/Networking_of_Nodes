@@ -1,0 +1,71 @@
+# Networking of Nodes | Stamatics, IITK (May’23 - July’23)
+
+## Overview
+This repository contains notes, articles, and solutions related to the "Networking of Nodes" project, conducted as part of the Stamatics club at IITK. The project aimed to deepen the understanding of Data Structures and Algorithms, with a specific focus on concepts related to Graphs, Trees, and related techniques.
+
+## Repository Structure
+
+### 1. Topic Articles
+This section contains detailed articles on various concepts related to Data Structures and Algorithms. Topics covered include:
+- Graphs and Trees
+- Minimum Path Algorithms
+- Topological Sorting
+- Greedy Algorithms
+- Trie Data Structure
+- Disjoint Set Union (DSU)
+
+**[View Topic Articles](./Topic_Articles)**
+
+#### Articles
+- **Introduction to Graphs and Trees**
+  - [GeeksforGeeks: Introduction to Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+- **Types of Graphs (Directed, Undirected, Weighted, etc.)**
+  - [GeeksforGeeks: Types of Graphs](https://www.geeksforgeeks.org/types-of-graphs/)
+- **Basic Terminologies (Nodes, Edges, etc.)**
+  - [GeeksforGeeks: Graph Terminologies](https://www.geeksforgeeks.org/graph-theory-basics-set-1-introduction/)
+- **Representation of Graphs (Adjacency List, Adjacency Matrix)**
+  - [GeeksforGeeks: Graph Representation](https://www.geeksforgeeks.org/graph-representations-using-adjacency-list-and-matrix/)
+- **Basic Tree Structures (Binary Tree, AVL Tree, etc.)**
+  - [GeeksforGeeks: Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+- **Applications of Graphs and Trees**
+
+- **Minimum Path Algorithms**
+  - [GeeksforGeeks: Dijkstra's Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+  - [GeeksforGeeks: Bellman-Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)
+  - [GeeksforGeeks: Floyd-Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)
+
+- **Topological Sorting**
+  - [GeeksforGeeks: Kahn's Algorithm](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/)
+  - [GeeksforGeeks: Topological Sorting using DFS](https://www.geeksforgeeks.org/topological-sorting/)
+
+- **Greedy Algorithms**
+  - [GeeksforGeeks: Kruskal's Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+  - [GeeksforGeeks: Prim's Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)
+  - [GeeksforGeeks: Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
+
+- **Trie Data Structure**
+  - [GeeksforGeeks: Trie Data Structure](https://www.geeksforgeeks.org/trie-insert-and-search/)
+
+- **Disjoint Set Union (DSU)**
+  - [GeeksforGeeks: Disjoint Set Data Structure](https://www.geeksforgeeks.org/union-find/)
+
+### 2. Questions Solved
+This section contains solutions to competitive programming problems that apply the concepts covered in the topic articles. Each problem is documented with a brief explanation and the C++ code solution.
+
+**[View Questions Solved](./Questions_Solved)**
+
+#### Questions
+- **Shortest Path in a Weighted Graph**
+  - [CSES: Shortest Routes I](https://cses.fi/problemset/task/1671)
+  - [LeetCode: 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+
+## How to Use
+- **Read the Articles:** Start with the topic articles to build your understanding of the concepts. Links to detailed explanations on GeeksforGeeks are provided within each article.
+- **Solve Problems:** Use the solved problems as a reference to apply the concepts in practice. Try solving similar problems on your own before referring to the provided solutions. Links to similar problems on CSES and LeetCode are included.
+- **Contribute:** Feel free to contribute by adding more problems, optimizing solutions, or expanding on the articles.
+
+## Impact
+By completing this project, significant improvements were made in competitive programming performance, particularly in handling problems involving Graphs, Trees, and advanced algorithms.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
